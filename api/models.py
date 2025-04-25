@@ -126,5 +126,27 @@ news20 = News(
     "https://picsum.photos/400?random=20"
 )
 
+news21 = News(
+    "Claire Ryan, George Sandeman and Sarah Campbell",
+    "Our daughters will be with us,' say dads of Southport victims running London Marathon",
+    "https://picsum.photos/400?random=21"
+)
 
-news_list = []
+news22 = News(
+    "Woman running marathon after dad's cancer recovery",
+    "Zoë Driver, pictured here with her dad, Richard, will run through London to raise money for Sarcoma UK",
+    "https://picsum.photos/400?random=22"
+)
+
+news23 = News(
+    "Colon cancer patient to run London Marathon",
+    "A Jersey colon cancer patient is running the London Marathon for two charities in the island.",
+    "https://picsum.photos/400?random=23"
+)
+
+news24 = News(
+    "Marathon runners' urine to be made into fertiliser",
+    "If used only for growing, 1,000 litres of runners' urine could help grow wheat for about 195 loaves of bread",
+    "https://picsum.photos/400?random=24"
+)
+news_list = [news1, news2, news3, news4, news5, news6, news7, news8, news9, news10, news11, news12, news13, news14, news15, news16, news17, news18, news19, news20, news21, news22, news23, news24]
