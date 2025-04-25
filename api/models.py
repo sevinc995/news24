@@ -8,7 +8,7 @@ class News:
 
 news1 = News(
     "Ray-Ban Meta",
-    "You can now use the glasses to remind you make a phone call or even where you parked your car."
+    "You can now use the glasses to remind you make a phone call or even where you parked your car.",
     "https://picsum.photos/400?random=1"
 )
 
